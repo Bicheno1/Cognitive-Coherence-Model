@@ -15,7 +15,7 @@ Reference implementations and additional documentation will be released in futur
 
 ## Author
 
-Pool Andres Aguilar Apolinario
+Pool Andres Aguilar Apolinario (Akimsa3)
 
 ## License
 
