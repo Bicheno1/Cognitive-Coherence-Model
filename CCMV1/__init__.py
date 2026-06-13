@@ -1,0 +1,1 @@
+# CCM — Cognitive Coherence Model
