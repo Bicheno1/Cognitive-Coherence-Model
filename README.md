@@ -17,6 +17,10 @@ Reference implementations and additional documentation will be released in futur
 
 Pool Andres Aguilar Apolinario (Akimsa3)
 
-## License
+**License**
+This project is licensed under the **PolyForm Noncommercial License 1.0.0**. 
 
-CC BY-NC 4.0
+- **Research & Academic Use:** Free for non-commercial research, testing, and evaluation.
+- **Commercial Use:** Requires a separate commercial license.
+
+See the full [LICENSE](LICENSE) file for details.
